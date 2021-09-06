@@ -1,1 +1,1 @@
-# area-of-the-traiangle
+# area-of-the-rectangle
